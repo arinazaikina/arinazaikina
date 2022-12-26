@@ -12,19 +12,30 @@
   <a href="https://www.instagram.com/arina_startceva/">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+</div>
+
+<div id="profile_views" align="center">
     <img src="https://komarev.com/ghpvc/?username=arinazaikina&style=flat-square&color=blue"/>
 </div>
 
+<div id="greeting" align="center">
+    <h2>Hi there 👋, I'm Arina</h2>
+</div>
 
-## Hi there 👋, I'm Arina
 ___
-I want to change profession, so...
+I want to change profession, so now ...
 
 ### 🎓  I'm a student of the python developer course from Skypro and Skillbox
 ___
 ### 🔨 Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" title="AIOGram" alt="AIOGram" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQlite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/websiddu/technology-icons/issues/12" title="Selenium Webdriver" alt="Selenium" width="40" height="40"/>&nbsp;
+    <img src="https://images.opencollective.com/allure-report/f14e715/logo/256.png" title="Allure Report" alt="Allure" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ___
