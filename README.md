@@ -33,7 +33,7 @@ ___
     <img src="https://avatars.githubusercontent.com/u/33784865?s=200&v=4" title="AIOGram" alt="AIOGram" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQlite" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/websiddu/technology-icons/issues/12" title="Selenium Webdriver" alt="Selenium" width="40" height="40"/>&nbsp;
+    <img src="https://icons8.com/icon/VOnRj9vGpXV8/selenium" title="Selenium Webdriver" alt="Selenium" width="40" height="40"/>&nbsp;
     <img src="https://images.opencollective.com/allure-report/f14e715/logo/256.png" title="Allure Report" alt="Allure" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
