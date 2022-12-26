@@ -22,8 +22,7 @@
     <h2>Hi there 👋, I'm Arina</h2>
 </div>
 
-___
-I want to change profession, so now ...
+##### I want to change profession, so now ...
 
 ### 🎓  I'm a student of the python developer course from Skypro and Skillbox
 ___
