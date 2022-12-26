@@ -22,9 +22,12 @@
     <h2>Hi there 👋, I'm Arina</h2>
 </div>
 
-##### I want to change profession, so now ...
+I want to change profession, so now ...
 
-### 🎓  I'm a student of the python developer course from Skypro and Skillbox
+#### 🎓  I'm a student of the python developer course from Skypro and Skillbox
+#### 🐍 My projects:
+* [Telegram bot for hotel search](https://github.com/arinazaikina/Hotels-Telegram-Bot-aiogram)
+* The set of autotests for a pizzeria website 
 ___
 ### 🔨 Languages and Tools :
 <div>
@@ -38,7 +41,9 @@ ___
 </div>
 
 ___
-### 👧 My short biography
+<details>
+<summary>👧 My short biography </summary>
+
 #### 2022 (4 months) -> **Manual QA Engineer** 🐛 
 Doubletapp: https://doubletapp.ai/en
 * Manual testing of web services and mobile applications
@@ -59,6 +64,5 @@ Concern CSRI Elektropribor, JSC
 
 * Development of micromechanical gyroscopes assembly processes
 * Development of technological documentation
-
-
+</details>
 
