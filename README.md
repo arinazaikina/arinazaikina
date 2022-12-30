@@ -27,7 +27,7 @@ I want to change profession, so now ...
 #### 🎓  I'm a student of the python developer course from Skypro and Skillbox
 #### 🐍 My projects:
 * [Telegram bot for hotel search](https://github.com/arinazaikina/Hotels-Telegram-Bot-aiogram)
-* The set of autotests for a pizzeria website 
+* [The set of autotests for a pizzeria website](https://github.com/arinazaikina/Pizzeria_website_Auto_tests)
 ___
 ### 🔨 Languages and Tools :
 <div>
