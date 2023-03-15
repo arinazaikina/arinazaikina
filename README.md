@@ -28,6 +28,7 @@ I want to change profession, so now ...
 #### 🐍 My projects:
 * [Telegram bot for hotel search](https://github.com/arinazaikina/Hotels-Telegram-Bot-aiogram)
 * [The set of autotests for a pizzeria website](https://github.com/arinazaikina/Pizzeria_website_Auto_tests)
+* [Job parser for HeadHunter and SuperJob](https://github.com/arinazaikina/Parser_HeadHunter_SuperJob)
 ___
 ### 🔨 Languages and Tools :
 <div>
