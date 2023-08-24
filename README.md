@@ -22,9 +22,9 @@
     <h2>Hi there 👋, I'm Arina</h2>
 </div>
 
-I want to change profession, so now ...
+### I'm currently working as a Test Automation Engineer at Positive Technologies. 
 
-#### 🎓  I'm currently working as a Test Automation Engineer at Positive Technologies. Besides my professional role, I'm also enhancing my Python programming skills. I'm currently learning Python through the Python Developer course by Skypro and Skillbox.
+#### 🤓 Besides my professional role, I'm also enhancing my Python programming skills. I'm currently learning Python through the Python Developer course by Skypro and Skillbox.
 #### 🐍 My projects:
 * [Telegram bot for hotel search](https://github.com/arinazaikina/Hotels-Telegram-Bot-aiogram)
 * [The set of autotests for a pizzeria website](https://github.com/arinazaikina/Pizzeria_website_Auto_tests)
