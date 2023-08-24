@@ -24,7 +24,7 @@
 
 I want to change profession, so now ...
 
-#### 🎓  I'm a student of the python developer course from Skypro and Skillbox
+#### 🎓  I'm currently working as a Test Automation Engineer at Positive Technologies. Besides my professional role, I'm also enhancing my Python programming skills. I'm currently learning Python through the Python Developer course by Skypro and Skillbox.
 #### 🐍 My projects:
 * [Telegram bot for hotel search](https://github.com/arinazaikina/Hotels-Telegram-Bot-aiogram)
 * [The set of autotests for a pizzeria website](https://github.com/arinazaikina/Pizzeria_website_Auto_tests)
