@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/arina-zaikina/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://t.me/zaikina_arina">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arina-zaikina/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -34,26 +34,26 @@ ___
 ### 💻 My technology stack :
 
 #### Backend:
-* 🐍 Python: Django, DRF, Flask, FastAPI, Celery, aiogram, beautifulsoup, request
-* 🗄️ Databases: PostgreSQL, SQLite, Redis
+* Python: Django, DRF, Flask, FastAPI, Celery, aiogram, beautifulsoup, request
+* Databases: PostgreSQL, SQLite, Redis
 
 #### Frontend:
-* 🎨 HTML/CSS, Bootstrap
+* HTML/CSS, Bootstrap
 
 #### DevOps:
-* 🐧 Linux
-* 🐳 Containerization and Orchestration: Docker
-* 🔍 Monitoring and Logging: Sentry, Greylog
-* 🦊 Continuous Integration and Continuous Deployment (CI/CD): GitLab CI/CD
+* Linux
+* Containerization and Orchestration: Docker
+* Monitoring and Logging: Sentry, Greylog
+* Continuous Integration and Continuous Deployment (CI/CD): GitLab CI/CD
 
 #### Version control
-* 🔀 Git
+* Git
 
 #### Testing
-* 🔧 UnitTesting: pytest, unittest
-* 🖥️ UI Testing: Selenium Webdriver,Playwright
-* 📊 Reporting: Allure
-* 🛠️ Additional Testing Tools: DevTools, Postman, Qase, TestRail, Charles Proxy, Wireshark
+* UnitTesting: pytest, unittest
+* UI Testing: Selenium Webdriver,Playwright
+* Reporting: Allure
+* Additional Testing Tools: DevTools, Postman, Qase, TestRail, Charles Proxy, Wireshark
 ___
 <details>
 <summary>👧 My short biography </summary>
